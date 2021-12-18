@@ -1,7 +1,7 @@
-<img width="1920" height="1080" src="https://i.imgur.com/A5hgYlu.png" alt="Shlex Softworks, LLC."> <br />
+<img width="1080" height="1920" src="https://i.imgur.com/A5hgYlu.png" alt="Shlex Softworks, LLC."> <br />
 <h3>Shlex Softworks, LLC.</h3>
 <sup>Proprietary License</sup> <br />
-<sup>Copyright (C) [YEAR] Shlex Softworks. - All rights reserved.</sup> <br /> <br />
+<sup>Copyright © 2022 Shlex Softworks. - All rights reserved.</sup> <br /> <br />
 <sup>Last Revised: December 18th, 2021</sup>
 
 ___
