@@ -2,7 +2,9 @@
 <h3>Shlex Softworks</h3>
 <sup>Proprietary License</sup> <br />
 <sup>Copyright © 2022 Shlex Softworks. - All rights reserved.</sup> <br /> <br />
-<sup>Last Revised: December 18th, 2021</sup>
+<sup>Last Revised: December 27th, 2021</sup>
+
+<sup>Written with help from Latae Softworks</sup>
 
 ___
 
