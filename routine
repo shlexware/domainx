@@ -1,11 +1,11 @@
 if game.PlaceId == 7427747933 then
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("WOW OWNER IS HERE OMG!!!", "All")
 wait(1)
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("WOW OWNER IS HERE OMG!!!", "All")
 wait(1)
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MWOW OWNER IS HERE OMG!!!", "All")
 wait(1)
-game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("WOW OWNER IS HERE OMG!!!", "All")
 else
 print("nope")
 end
