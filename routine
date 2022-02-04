@@ -1,5 +1,11 @@
 if game.PlaceId == 4483381587 then
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+wait(1)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+wait(1)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
+wait(1)
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("MLEMLX!!!! OMG!!!", "All")
 else
 print("nope")
 end
