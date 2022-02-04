@@ -6,6 +6,4 @@ wait(1)
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ban if u kill shlexius", "All")
 wait(1)
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ban if u kill shlexius", "All")
-else
-print("nope")
 end
