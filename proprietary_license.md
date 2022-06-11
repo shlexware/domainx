@@ -1,8 +1,8 @@
-<img width="150" height="150" src="https://i.imgur.com/leqd2ug.png" alt="Shlex Softworks"> <br />
-<h3>Shlex Softworks</h3>
+<img width="150" height="150" src="https://i.imgur.com/leqd2ug.png" alt="Sirius Software"> <br />
+<h3>Sirius Software</h3>
 <sup>Proprietary License</sup> <br />
-<sup>Copyright © 2022 Shlex Softworks. - All rights reserved.</sup> <br /> <br />
-<sup>Last Revised: December 27th, 2021</sup>
+<sup>Copyright © 2022 Sirius Software. - All rights reserved.</sup> <br /> <br />
+<sup>Last Revised: June 11th, 2022</sup>
 
 <sup>Written with help from Latae Softworks</sup>
 
