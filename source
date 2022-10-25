@@ -2,7 +2,8 @@
 -- DomainX the most rushed and money making focused script available
 -- now open source because we aren't money hungry
 
-
+-- don't take this as a representation for how Sirius' source will look, not that you'll see that source anyway (as it's obfuscated)
+-- we don't write code this bad anymore :thumbsup:
 
 local Players = game:GetService("Players")
 while not game:GetService("Players").LocalPlayer do
